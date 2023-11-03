@@ -230,12 +230,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND_explode",
+	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bfred",
+	"healthicon": "bf",
 	"flip_x": true,
 	"healthbar_colors": [
 		250,
