@@ -1,22 +1,67 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
-	],
-
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"storyName": "Best friends",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
 	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				186,
+				133,
+				93
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				186,
+				133,
+				95
+			]
+		],
+		[
+			"Dad Battle",
+			"dad",
+			[
+				186,
+				133,
+				95
+			]
+		],
+		[
+			"Spookeez",
+			"dad",
+			[
+				186,
+				133,
+				95
+			]
+		],
+		[
+			"South",
+			"dad",
+			[
+				186,
+				133,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Week 1"
 }
