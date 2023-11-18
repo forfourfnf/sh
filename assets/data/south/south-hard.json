@@ -18,7 +18,7 @@
 					[
 						"Change Character",
 						"dad",
-						"tails"
+						"dad"
 					]
 				]
 			],
@@ -28,7 +28,7 @@
 					[
 						"Change Character",
 						"dad",
-						"tails"
+						"dad"
 					]
 				]
 			],
@@ -38,7 +38,7 @@
 					[
 						"Change Character",
 						"dad",
-						"tails"
+						"dad"
 					]
 				]
 			],
@@ -48,7 +48,7 @@
 					[
 						"Change Character",
 						"dad",
-						"tails"
+						"dad"
 					]
 				]
 			],
@@ -58,7 +58,7 @@
 					[
 						"Change Character",
 						"dad",
-						"tails"
+						"dad"
 					]
 				]
 			],
@@ -14154,7 +14154,7 @@
 		],
 		"player3": "gf",
 		"song": "South",
-		"stage": "philly",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 3.4,
